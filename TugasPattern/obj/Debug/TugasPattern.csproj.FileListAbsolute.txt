@@ -1,0 +1,7 @@
+C:\Users\craft\OneDrive\Dokumen\Pelatihan C# Lanjutan\TugasPattern\TugasPattern\bin\Debug\TugasPattern.exe.config
+C:\Users\craft\OneDrive\Dokumen\Pelatihan C# Lanjutan\TugasPattern\TugasPattern\bin\Debug\TugasPattern.exe
+C:\Users\craft\OneDrive\Dokumen\Pelatihan C# Lanjutan\TugasPattern\TugasPattern\bin\Debug\TugasPattern.pdb
+C:\Users\craft\OneDrive\Dokumen\Pelatihan C# Lanjutan\TugasPattern\TugasPattern\obj\Debug\TugasPattern.csproj.AssemblyReference.cache
+C:\Users\craft\OneDrive\Dokumen\Pelatihan C# Lanjutan\TugasPattern\TugasPattern\obj\Debug\TugasPattern.csproj.CoreCompileInputs.cache
+C:\Users\craft\OneDrive\Dokumen\Pelatihan C# Lanjutan\TugasPattern\TugasPattern\obj\Debug\TugasPattern.exe
+C:\Users\craft\OneDrive\Dokumen\Pelatihan C# Lanjutan\TugasPattern\TugasPattern\obj\Debug\TugasPattern.pdb
